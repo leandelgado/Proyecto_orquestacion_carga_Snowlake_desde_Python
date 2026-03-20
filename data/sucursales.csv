@@ -1,4 +1,4 @@
-id_sucursal,nombrel,tipo
+id_sucursal,nombre,tipo
 1,ElectroMax,Tienda física
 2,TechZone,Tienda física + online
 3,MegaByte,Retail especializado en electrónica

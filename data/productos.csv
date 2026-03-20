@@ -1,38 +1,61 @@
 id_producto,familia,nombre,precio_unitario,costo_unitario
-1,Notebooks,Notebook Lenovo IdeaPad 3,859301,618441
-2,Notebooks,Notebook HP Pavilion 15,635367,440588
-3,Notebooks,Notebook Dell Inspiron 3511,554385,371907
-4,Notebooks,MacBook Air M1,877459,624618
-5,Notebooks,Notebook ASUS VivoBook 14,714979,535252
-6,PCs,PC Gamer Ryzen 5 RTX 3060,899025,516357
-7,PCs,PC Escritorio Intel i5 12th Gen,237135,139266
-8,PCs,PC All in One HP 24,638672,359755
-9,PCs,PC Mini Intel NUC,857274,525874
-10,Tablets,Tablet Samsung Galaxy Tab A8,861777,686303
-11,Tablets,Tablet Lenovo M10,277750,210647
-12,Tablets,iPad 9na Generación,461868,262671
-13,Tablets,Tablet Xiaomi Pad 5,64647,51095
-14,Monitores,Monitor Samsung 24'' FHD,713329,565307
-15,Monitores,Monitor LG UltraWide 29'',564546,339914
-16,Monitores,Monitor Dell 27'' QHD,747829,473139
-17,Monitores,Monitor ASUS 165Hz Gaming,130667,89891
-18,TV,Smart TV Samsung 50'' 4K,664107,442667
-19,TV,Smart TV LG OLED 55'',770125,604039
-20,TV,Smart TV TCL 43'' Android,426025,248128
-21,Audio,Parlantes Logitech Z407,725250,489482
-22,Audio,Barra de Sonido Samsung HW-T450,55400,40841
-23,Audio,Auriculares Sony WH-1000XM4,294743,235067
-24,Audio,Auriculares JBL Tune 510BT,797579,606693
-25,Audio,Equipo de Audio Sony MHC-V13,282315,183787
-26,Smartphones,Samsung Galaxy S22,327397,249648
-27,Smartphones,iPhone 13,413868,232000
-28,Smartphones,Xiaomi Redmi Note 11,850618,502782
-29,Smartphones,Motorola Moto G60,895715,517065
-30,Accesorios,Mouse Logitech MX Master 3,681929,469383
-31,Accesorios,Teclado Mecánico Redragon Kumara,219934,132483
-32,Accesorios,Webcam Logitech C920,147035,110114
-33,Accesorios,Disco SSD Kingston 1TB,257675,142774
-34,Accesorios,Memoria RAM Corsair 16GB DDR4,697201,432577
-35,Accesorios,Router TP-Link Archer C6,297727,198675
-36,Accesorios,Pendrive SanDisk 128GB,395188,302258
-37,Accesorios,Impresora HP DeskJet 2775,144322,115258
+1,Notebooks,Notebook Lenovo IdeaPad 3,1815877,1467946
+2,Notebooks,Notebook HP Pavilion 15,1172427,818986
+3,Notebooks,Notebook Dell Inspiron 14,739704,459120
+4,Notebooks,Notebook Asus VivoBook 15,314983,263231
+5,Notebooks,Notebook Acer Aspire 5,972615,745904
+6,Notebooks,Notebook MSI Modern 14,175900,136581
+7,Notebooks,Notebook Samsung Galaxy Book,994657,782637
+8,Notebooks,Notebook Apple MacBook Air M1,508408,355336
+9,Celulares,Samsung Galaxy S23,1803286,1373295
+10,Celulares,iPhone 14,1621629,1035012
+11,Celulares,Motorola Edge 40,891644,653410
+12,Celulares,Xiaomi Redmi Note 13,1225213,769805
+13,Celulares,Samsung Galaxy A54,278468,217425
+14,Celulares,iPhone 13,952464,644629
+15,Celulares,Motorola G84,1984347,1323747
+16,Celulares,Xiaomi Poco X5,1419162,1152934
+17,Tablets,iPad 10th Gen,1732886,1281117
+18,Tablets,Samsung Galaxy Tab S9,242903,166831
+19,Tablets,Lenovo Tab P11,965876,684150
+20,Tablets,Xiaomi Pad 6,990490,629039
+21,Tablets,Samsung Galaxy Tab A8,466901,306814
+22,Monitores,Monitor LG 24 IPS,559981,359257
+23,Monitores,Monitor Samsung 27 Curvo,1689008,1211251
+24,Monitores,Monitor Asus 24 Gaming,1568751,1239078
+25,Monitores,Monitor Dell 27 QHD,1765900,1201751
+26,Monitores,Monitor Acer 24 LED,414720,318241
+27,Accesorios,Mouse Logitech MX Master 3,1848611,1110655
+28,Accesorios,Teclado Redragon Kumara,1246714,872815
+29,Accesorios,Auriculares Sony WH-CH520,1719053,1324022
+30,Accesorios,Webcam Logitech C920,373694,301106
+31,Accesorios,Disco SSD Kingston 1TB,1240311,755134
+32,Accesorios,Disco Externo WD 2TB,511471,332736
+33,Accesorios,Pendrive SanDisk 128GB,1501471,910214
+34,Accesorios,Hub USB-C Anker,500932,307081
+35,Impresoras,Impresora HP LaserJet MFP 135w,423112,345785
+36,Impresoras,Impresora Epson EcoTank L3250,1402725,953392
+37,Impresoras,Impresora Brother HL-1212W,1841876,1429333
+38,Impresoras,Impresora Canon PIXMA G3110,1729031,1119027
+39,Notebooks,Notebook Lenovo IdeaPad 3,660788,512316
+40,Notebooks,Notebook HP Pavilion 15,710797,451060
+41,Notebooks,Notebook Dell Inspiron 14,1191369,726664
+42,Notebooks,Notebook Asus VivoBook 15,617673,448810
+43,Notebooks,Notebook Acer Aspire 5,1196627,837256
+44,Notebooks,Notebook MSI Modern 14,1361602,839732
+45,Notebooks,Notebook Samsung Galaxy Book,1338907,824452
+46,Notebooks,Notebook Apple MacBook Air M1,1646599,1259951
+47,Celulares,Samsung Galaxy S23,1297462,859447
+48,Celulares,iPhone 14,1333129,1045949
+49,Celulares,Motorola Edge 40,178525,112456
+50,Celulares,Xiaomi Redmi Note 13,203364,154491
+51,Celulares,Samsung Galaxy A54,1719104,1182300
+52,Celulares,iPhone 13,1202118,909152
+53,Celulares,Motorola G84,178963,140153
+54,Celulares,Xiaomi Poco X5,506695,384873
+55,Tablets,iPad 10th Gen,1499930,919343
+56,Tablets,Samsung Galaxy Tab S9,1850687,1151068
+57,Tablets,Lenovo Tab P11,1082070,817360
+58,Tablets,Xiaomi Pad 6,713286,500802
+59,Tablets,Samsung Galaxy Tab A8,1759960,1392085
+60,Monitores,Monitor LG 24 IPS,582095,396188
